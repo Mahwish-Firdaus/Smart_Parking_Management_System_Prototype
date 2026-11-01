@@ -1,0 +1,5 @@
+Build command: g++ -std=c++17 -Wall -Wextra -pedantic SourceCode/main.cpp SourceCode/Vehicle.cpp SourceCode/ParkingSlot.cpp SourceCode/ParkingManager.cpp -o smart_parking
+Return code: 0
+STDOUT:
+
+STDERR:
